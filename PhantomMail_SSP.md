@@ -53,6 +53,8 @@ This is implemented in accordance with the principle of **Least Privilege**.
 **Implemented:** Yes  
 **Responsible Party:** System Administrator, Compliance Officer
 
+Added RBAC control details
+
  
 - Email notifications (internal only)  
 - Linked to internal Active Directory for Reviewer access (no reporter login required)
