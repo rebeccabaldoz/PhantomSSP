@@ -1,0 +1,11 @@
+# 📂 JIRA Project Tracker – PhantomMail
+
+This folder contains a documentation archive of the JIRA Kanban board used to manage the PhantomMail GRC project.
+
+It includes:
+- A breakdown of BOA-1 through BOA-5 tasks
+- Descriptions of JIRA labels used (e.g., `phantommail-poam`)
+- Status updates as of July 2025
+- Links between JIRA and GitHub artifacts
+
+All items were originally created in a team-managed JIRA project using a Kanban board under the project name: **Service Stream**.
